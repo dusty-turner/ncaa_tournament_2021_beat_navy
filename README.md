@@ -42,9 +42,9 @@ We used a random forest model to predict winning outcomes.  We considered end of
 - Tournament Seed of Team 
 - Schedule Ranking 
 - The following average statistics from the last 3 games of the season 
--- Offensive efficiency 
--- Defensive efficiency 
--- Possessions per game  
+  - Offensive efficiency 
+  - Defensive efficiency 
+  - Possessions per game  
 
 ## External Data 
 
