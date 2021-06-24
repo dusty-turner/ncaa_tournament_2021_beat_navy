@@ -72,4 +72,4 @@ We tried xgboost and elastic net models and they did not perform as well.
 
 [github repo](https://github.com/dusty-turner/ncaa_tournament_2021_beat_navy)  
 
-`git clone git@github.com:dusty-turner/ncaa_tournament_2021_beat_navy.git`
+`git@github.com:dusty-turner/ncaa_tournament_2021_beat_navy.git`
